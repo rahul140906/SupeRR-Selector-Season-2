@@ -1,0 +1,158 @@
+model_rank,player_name,manual_reference_label,model_score,candidate_type
+1,Virat Kohli,1,0.9810014253614393,Model-selected; used as manual calibration example
+2,Suryakumar Yadav,1,0.9676418938014077,Model-selected; used as manual calibration example
+3,Namboori Tilak Varma,1,0.9405209347072342,Model-selected; used as manual calibration example
+4,Shubman Gill,1,0.924153508634809,Model-selected; used as manual calibration example
+5,Sai Sudharsan,0,0.9185314955527605,Model-selected; additional candidate
+6,Jos Buttler,1,0.9010454198116828,Model-selected; used as manual calibration example
+7,Heinrich Klaasen,1,0.8814609853712202,Model-selected; used as manual calibration example
+8,Rinku Singh,1,0.8754758696617523,Model-selected; used as manual calibration example
+9,Tim David,0,0.8738223994484617,Model-selected; additional candidate
+10,David Miller,1,0.8466678549708149,Model-selected; used as manual calibration example
+11,Shreyas Iyer,1,0.8309026247000917,Model-selected; used as manual calibration example
+12,Yashasvi Jaiswal,0,0.7975354777528947,Model-selected; additional candidate
+13,Sanju Samson,0,0.7914968571522304,Model-selected; additional candidate
+14,Nicholas Pooran,0,0.7357988689285594,Model-selected; additional candidate
+15,Ishan Kishan,0,0.7241565749516564,Model-selected; additional candidate
+16,Shashank Singh,0,0.7182062976242125,Model-selected; additional candidate
+17,Tristan Stubbs,0,0.69922702830259,Model-selected; additional candidate
+18,Shivam Dube,0,0.6740041477085426,Model-selected; additional candidate
+19,Vaibhav Sooryavanshi,1,0.6678881580072973,Model-selected; used as manual calibration example
+20,Phil Salt,0,0.594794764575806,Model-selected; additional candidate
+21,Abhishek Sharma,0,0.5849258424887491,Model-selected; additional candidate
+22,Lokesh Rahul,0,0.5560879108570234,Model-selected; additional candidate
+23,Cameron Green,0,0.5310350723886162,Model-selected; additional candidate
+24,Hardik Pandya,0,0.42865911971499776,Model-selected; additional candidate
+25,Glenn Phillips,0,0.40330053775928604,Model-selected; additional candidate
+26,Ryan Rickelton,0,0.391429372055911,Model-selected; additional candidate
+27,Marcus Stoinis,0,0.38092408918745646,Model-selected; additional candidate
+28,Reeza Hendricks,0,0.33919789689799634,Model-selected; additional candidate
+29,Cooper Connolly,0,0.3226353314854807,Model-selected; additional candidate
+30,Mitchell Marsh,0,0.3106604243055883,Model-selected; additional candidate
+31,Dinesh Karthik,0,0.30199108751261805,Model-selected; additional candidate
+32,Quinton de Kock,0,0.24910410275265102,Model-selected; additional candidate
+33,David Warner,0,0.2336659529761917,Model-selected; additional candidate
+34,Dhruv Jurel,0,0.23191886118417865,Model-selected; additional candidate
+35,Aiden Markram,0,0.22347990630052467,Model-selected; additional candidate
+36,Rishabh Pant,0,0.2233209206373489,Model-selected; additional candidate
+37,Ruturaj Gaikwad,0,0.20978424178457247,Model-selected; additional candidate
+38,Rohit Sharma,0,0.20968730136401478,Model-selected; additional candidate
+39,Mahendra Singh Dhoni,0,0.20686811361287005,Model-selected; additional candidate
+40,Prabhsimran Singh,0,0.20600883039527124,Model-selected; additional candidate
+41,Faf du Plessis,0,0.2019308089156282,Model-selected; additional candidate
+42,Ashutosh Sharma,0,0.1829958791563695,Model-selected; additional candidate
+43,Naman Dhir,0,0.15949727793202517,Model-selected; additional candidate
+44,Harry Brook,0,0.14673965061618155,Model-selected; additional candidate
+45,Josh Inglis,0,0.13861343121056102,Model-selected; additional candidate
+46,Liam Livingstone,0,0.13250903190703883,Model-selected; additional candidate
+47,Rovman Powell,0,0.11783413134330473,Model-selected; additional candidate
+48,Shimron Hetmyer,0,0.11504453883573744,Model-selected; additional candidate
+49,Rajat Patidar,0,0.10898915638154026,Model-selected; additional candidate
+50,Muhammad Waseem,0,0.10857884046415384,Model-selected; additional candidate
+51,Angkrish Raghuvanshi,0,0.10152731315595431,Model-selected; additional candidate
+52,Tim Seifert,0,0.10066532384481722,Model-selected; additional candidate
+53,Andre Russell,0,0.09564476557744958,Model-selected; additional candidate
+54,Pathum Nissanka,0,0.08925285523492464,Model-selected; additional candidate
+55,Mohammad Rizwan,0,0.08779480526295758,Model-selected; additional candidate
+56,Travis Head,0,0.07952015488592286,Model-selected; additional candidate
+57,Riyan Parag,0,0.07736578293372891,Model-selected; additional candidate
+58,Babar Azam,0,0.07683331572082638,Model-selected; additional candidate
+59,Glenn Maxwell,0,0.07513574851816382,Model-selected; additional candidate
+60,Shai Hope,0,0.07286442518910045,Model-selected; additional candidate
+61,Jonny Bairstow,0,0.06560715784614161,Model-selected; additional candidate
+62,Shikhar Dhawan,0,0.062113944239845634,Model-selected; additional candidate
+63,Mark Chapman,0,0.05922283015831499,Model-selected; additional candidate
+64,Ravindra Jadeja,0,0.05752192062185816,Model-selected; additional candidate
+65,Sherfane Rutherford,0,0.055507585715330945,Model-selected; additional candidate
+66,Jacob Bethell,0,0.05338403890133701,Model-selected; additional candidate
+67,Priyansh Arya,0,0.04998545924584074,Model-selected; additional candidate
+68,Towhid Hridoy,0,0.04343789526213623,Model-selected; additional candidate
+69,William Jacks,0,0.03852774564306296,Model-selected; additional candidate
+70,Shakib Al Hasan,0,0.032073997876577325,Model-selected; additional candidate
+71,Romario Shepherd,0,0.03003225937415092,Model-selected; additional candidate
+72,Nitish Reddy,0,0.028590893802145433,Model-selected; additional candidate
+73,Tim Robinson,0,0.02782694150921837,Model-selected; additional candidate
+74,Daryl Mitchell,0,0.024978658359272998,Model-selected; additional candidate
+75,Axar Patel,0,0.024740968790812033,Model-selected; additional candidate
+76,Devon Conway,0,0.02152635254373962,Model-selected; additional candidate
+77,Nitish Rana,0,0.021195308642615703,Model-selected; additional candidate
+78,Finn Allen,0,0.020519234538406966,Model-selected; additional candidate
+79,Vijay Shankar,0,0.01991593250090749,Model-selected; additional candidate
+80,Venkatesh Iyer,0,0.018913386497811553,Model-selected; additional candidate
+81,Jitesh Sharma,0,0.018021079384589606,Model-selected; additional candidate
+82,Najibullah Zadran,0,0.01796027670951475,Model-selected; additional candidate
+83,Harry Tector,0,0.016861712770093955,Model-selected; additional candidate
+84,Kamil Mishara,0,0.01684213744116954,Model-selected; additional candidate
+85,Ajinkya Rahane,0,0.015229187342894773,Model-selected; additional candidate
+86,Sikandar Raza,0,0.014799753155883071,Model-selected; additional candidate
+87,Fakhar Zaman,0,0.01411974805270213,Model-selected; additional candidate
+88,Sunil Narine,0,0.013996901280880962,Model-selected; additional candidate
+89,George Dockrell,0,0.013838106517744031,Model-selected; additional candidate
+90,Ben Duckett,0,0.013668583840445132,Model-selected; additional candidate
+91,Dasun Shanaka,0,0.012537439884678326,Model-selected; additional candidate
+92,Dewald Brevis,0,0.010852994986659315,Model-selected; additional candidate
+93,Rahul Tewatia,0,0.007519110287049426,Model-selected; additional candidate
+94,Rahul Tripathi,0,0.006641392939255496,Model-selected; additional candidate
+95,Sam Curran,0,0.0054896425691994075,Model-selected; additional candidate
+96,Kusal Perera,0,0.00533806400138909,Model-selected; additional candidate
+97,Kusal Mendis,0,0.005315089229474212,Model-selected; additional candidate
+98,Moeen Ali,0,0.005225887517224885,Model-selected; additional candidate
+99,Washington Sundar,0,0.004936382451702141,Model-selected; additional candidate
+100,Sahibzada Farhan,0,0.004906194139690124,Model-selected; additional candidate
+101,Devdutt Padikkal,0,0.0047911359436887905,Model-selected; additional candidate
+102,Ibrahim Zadran,0,0.004575482803049214,Model-selected; additional candidate
+103,Saim Ayub,0,0.004440613926805492,Model-selected; additional candidate
+104,Krunal Pandya,0,0.003836483636660285,Model-selected; additional candidate
+105,Wriddhiman Saha,0,0.0031328383852215523,Model-selected; additional candidate
+106,Mohammad Saif Hassan,0,0.0029693788977760665,Model-selected; additional candidate
+107,Mayank Agarwal,0,0.0029464173615511664,Model-selected; additional candidate
+108,Hasan Nawaz,0,0.0028491791572081695,Model-selected; additional candidate
+109,Mohammad Haris,0,0.0028127452483898683,Model-selected; additional candidate
+110,Ayush Badoni,0,0.002470188159439768,Model-selected; additional candidate
+111,Mohammad Nawaz,0,0.0024269633760244484,Model-selected; additional candidate
+112,Afif Hossain,0,0.002401427377207263,Model-selected; additional candidate
+113,Abdul Samad,0,0.0022339955444602676,Model-selected; additional candidate
+114,Tanzid Hasan,0,0.0021583065529515526,Model-selected; additional candidate
+115,Andrew Balbirnie,0,0.0021384216622780017,Model-selected; additional candidate
+116,Iftikhar Ahmed,0,0.002137873636240382,Model-selected; additional candidate
+117,Mitchell Santner,0,0.001854798990668047,Model-selected; additional candidate
+118,Dawid Malan,0,0.0017981320398236453,Model-selected; additional candidate
+119,Abishek Porel,0,0.0017820491874084054,Model-selected; additional candidate
+120,Liton Das,0,0.0016515947178502698,Model-selected; additional candidate
+121,Nehal Wadhera,0,0.0016087628549427571,Model-selected; additional candidate
+122,M Shahrukh Khan,0,0.0014777593140209591,Model-selected; additional candidate
+123,Jason Holder,0,0.001469742966548774,Model-selected; additional candidate
+124,Kamindu Mendis,0,0.0013739640539823595,Model-selected; additional candidate
+125,Jaker Ali Anik,0,0.0013633563842913312,Model-selected; additional candidate
+126,Prithvi Shaw,0,0.0013547258656857986,Model-selected; additional candidate
+127,Johnson Charles,0,0.0013311702755050175,Model-selected; additional candidate
+128,Salman Agha,0,0.0012343827034551214,Model-selected; additional candidate
+129,Lorcan Tucker,0,0.0010919636089182657,Model-selected; additional candidate
+130,Shahbaz Ahmed,0,0.001043253439425967,Model-selected; additional candidate
+131,Usman Khan,0,0.001019580126898701,Model-selected; additional candidate
+132,Ryan Burl,0,0.0010126548834834223,Model-selected; additional candidate
+133,Shadab Khan,0,0.0009769939526117829,Model-selected; additional candidate
+134,Azmatullah Omarzai,0,0.000931908424310757,Model-selected; additional candidate
+135,Brian Bennett,0,0.0008345425442987029,Model-selected; additional candidate
+136,Brandon King,0,0.0008107235023309765,Model-selected; additional candidate
+137,Ambati Rayudu,0,0.0006810427908421837,Model-selected; additional candidate
+138,Paul Stirling,0,0.0006783204015700216,Model-selected; additional candidate
+139,Roston Chase,0,0.0006397556568850807,Model-selected; additional candidate
+140,Deepak Hooda,0,0.0005936069016201162,Model-selected; additional candidate
+141,Dion Myers,0,0.0005471860332837184,Model-selected; additional candidate
+142,Mohammad Nabi,0,0.0005142689886178911,Model-selected; additional candidate
+143,Jimmy Neesham,0,0.0005090143719661471,Model-selected; additional candidate
+144,Manish Pandey,0,0.0004887415368561682,Model-selected; additional candidate
+145,Nazmul Hossain Shanto,0,0.00044853811027197613,Model-selected; additional candidate
+146,Rahmanullah Gurbaz,0,0.00037461665311533404,Model-selected; additional candidate
+147,Michael Bracewell,0,0.0003629980894709569,Model-selected; additional candidate
+148,Kyle Mayers,0,0.00032319894648439993,Model-selected; additional candidate
+149,Parvez Emon,0,0.0002094152340206474,Model-selected; additional candidate
+150,Charith Asalanka,0,0.0001949200976131084,Model-selected; additional candidate
+151,Curtis Campher,0,0.0001667480558474253,Model-selected; additional candidate
+152,Wanindu Hasaranga,0,0.00015715187423226466,Model-selected; additional candidate
+153,Sediqullah Atal,0,0.00013780293927808122,Model-selected; additional candidate
+154,Darwish Rasooli,0,0.00012992503437330466,Model-selected; additional candidate
+155,Tadiwanashe Marumani,0,0.00012030657460546615,Model-selected; additional candidate
+156,Wesley Madhevere,0,0.00011649668864773812,Model-selected; additional candidate
+157,Shamim Hossain,0,0.00011050116354277908,Model-selected; additional candidate

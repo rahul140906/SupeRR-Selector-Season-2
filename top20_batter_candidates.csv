@@ -1,0 +1,21 @@
+model_rank,player_name,manual_reference_label,model_score,candidate_type
+1,Virat Kohli,1,0.9810014253614393,Model-selected; used as manual calibration example
+2,Suryakumar Yadav,1,0.9676418938014077,Model-selected; used as manual calibration example
+3,Namboori Tilak Varma,1,0.9405209347072342,Model-selected; used as manual calibration example
+4,Shubman Gill,1,0.924153508634809,Model-selected; used as manual calibration example
+5,Sai Sudharsan,0,0.9185314955527605,Model-selected; additional candidate
+6,Jos Buttler,1,0.9010454198116828,Model-selected; used as manual calibration example
+7,Heinrich Klaasen,1,0.8814609853712202,Model-selected; used as manual calibration example
+8,Rinku Singh,1,0.8754758696617523,Model-selected; used as manual calibration example
+9,Tim David,0,0.8738223994484617,Model-selected; additional candidate
+10,David Miller,1,0.8466678549708149,Model-selected; used as manual calibration example
+11,Shreyas Iyer,1,0.8309026247000917,Model-selected; used as manual calibration example
+12,Yashasvi Jaiswal,0,0.7975354777528947,Model-selected; additional candidate
+13,Sanju Samson,0,0.7914968571522304,Model-selected; additional candidate
+14,Nicholas Pooran,0,0.7357988689285594,Model-selected; additional candidate
+15,Ishan Kishan,0,0.7241565749516564,Model-selected; additional candidate
+16,Shashank Singh,0,0.7182062976242125,Model-selected; additional candidate
+17,Tristan Stubbs,0,0.69922702830259,Model-selected; additional candidate
+18,Shivam Dube,0,0.6740041477085426,Model-selected; additional candidate
+19,Vaibhav Sooryavanshi,1,0.6678881580072973,Model-selected; used as manual calibration example
+20,Phil Salt,0,0.594794764575806,Model-selected; additional candidate

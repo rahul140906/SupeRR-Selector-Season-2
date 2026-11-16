@@ -1,0 +1,21 @@
+model_rank,player_name,manual_reference_label,model_score,candidate_type
+1,Rashid Khan,1,0.9973780974887575,Model-selected; used as manual calibration example
+2,Arshdeep Singh,1,0.9909548897479927,Model-selected; used as manual calibration example
+3,Varun Chakravarthy,1,0.9834883664496318,Model-selected; used as manual calibration example
+4,Axar Patel,1,0.9723072951488231,Model-selected; used as manual calibration example
+5,Bhuvneshwar Kumar,1,0.9713898015680363,Model-selected; used as manual calibration example
+6,Ravi Bishnoi,0,0.9429960758304874,Model-selected; additional candidate
+7,Jasprit Bumrah,1,0.9353387062159034,Model-selected; used as manual calibration example
+8,Yuzvendra Chahal,0,0.9348850684259324,Model-selected; additional candidate
+9,Kuldeep Yadav,1,0.926612409456875,Model-selected; used as manual calibration example
+10,Wanindu Hasaranga,1,0.8899191287493601,Model-selected; used as manual calibration example
+11,Maheesh Theekshana,0,0.8795641068612193,Model-selected; additional candidate
+12,Sunil Narine,1,0.869124480485276,Model-selected; used as manual calibration example
+13,Mitchell Santner,0,0.8448093341393428,Model-selected; additional candidate
+14,Josh Hazlewood,1,0.818200251832053,Model-selected; used as manual calibration example
+15,Mohammed Siraj,0,0.7926949708143444,Model-selected; additional candidate
+16,Trent Boult,0,0.7521904986954748,Model-selected; additional candidate
+17,Noor Ahmad,0,0.7331332429184231,Model-selected; additional candidate
+18,Mohammed Shami,0,0.5739488738101128,Model-selected; additional candidate
+19,Ravindra Jadeja,0,0.5201048161796429,Model-selected; additional candidate
+20,Krunal Pandya,0,0.4729385094942112,Model-selected; additional candidate

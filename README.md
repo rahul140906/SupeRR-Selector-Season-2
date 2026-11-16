@@ -59,7 +59,7 @@ python -m pip install -r requirements.txt
 From the repository root:
 
 ```bash
-python pressure_model_unforced.py --data-dir ./data --output-dir ./results
+python pressure_model_unforced.py --data-dir . --output-dir .
 ```
 
 On Windows PowerShell, the same command works when Python is on your PATH.
